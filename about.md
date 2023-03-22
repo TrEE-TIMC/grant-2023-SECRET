@@ -1,35 +1,38 @@
 ---
 layout: page
-title: acronym
-subtitle: full grant title
+title: SECRET
+subtitle: Statistical learning to decipher secretion systems in genomes
 permalink: /
 redirect_from:
   - /about/
   - /about.html
 ---
 
+Predicting the function of a protein is one core challenge in biology. Protein
+function is typically inferred using sequence comparison with proteins whose
+function is known. This is problematic in many ways. In particular, proteins
+can have very different sequences, and yet share the same function. Machine
+learning approaches are thus more and more investigated to go beyond sequence
+similarity when annotating protein functions in new organism.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut quam
-tortor. Sed fringilla ipsum et erat aliquet, sit amet malesuada ipsum
-vehicula. Vestibulum blandit, purus in egestas tempor, leo mauris condimentum
-nunc, ac tincidunt justo ligula a enim. Nulla volutpat neque et molestie
-cursus. Praesent vel mauris diam. Fusce rutrum nulla vel elementum dignissim.
-Curabitur pulvinar suscipit orci et efficitur. Praesent nec rhoncus ex.
-Maecenas finibus lobortis pharetra. Nam malesuada in risus id vehicula.
-Suspendisse ligula odio, dictum viverra diam ut, auctor ullamcorper orci.
-Phasellus mattis nibh vitae pretium interdum. Vivamus ac egestas ipsum, eget
-luctus quam.
+This project is about investigating machine learning strategies to infer
+whether a protein is involved in a secretion system.
 
-Morbi placerat enim vel sapien rhoncus maximus. Proin non lacus et turpis
-ultricies fermentum ut ac risus. Interdum et malesuada fames ac ante ipsum
-primis in faucibus. Donec ut odio dui. Ut et sem nec ipsum convallis cursus
-sit amet sit amet risus. Sed feugiat ornare ullamcorper. Morbi odio eros,
-congue in lectus quis, aliquam ornare ipsum. Fusce feugiat dignissim diam at
-pharetra. Donec velit nulla, bibendum a volutpat at, pretium ut nibh. Etiam
-rhoncus at sapien sed pretium. Etiam sed odio sed dui eleifend venenatis.
-Nulla ornare magna nec condimentum posuere. Nunc non leo id ante aliquet
-accumsan. Duis magna neque, blandit at urna at, gravida consequat mauris.
-Morbi tristique nisi arcu, at tempor arcu egestas ac.
+![Secretion systems](../assets/img/projects/secretion_systems.png)
+
+
+Secretion systems are complexes of proteins enabling a number of essential
+functions for prokaryotic organisms (bacteria and archaea) such as acquiring
+nutrients or invading host cells. There are currently 12 types of secretion
+systems known, but we have very strong evidence to believe there are more
+secretion systems types: annotating the entier set of genomes with those 12
+types of secretion systems shows that some bacteria don't have any. Because of
+the importance of secretion systems to interact with the environment and with
+each other, as well as the difficulty of finding novel secretion systems (12
+years of research in an experimental lab for the last type of secretion system
+found), we believe that there are entire types of secretion systems yet to
+discover.
+
 
 ## People
 
