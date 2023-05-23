@@ -15,7 +15,7 @@ macromolecular systems and which protein families are involved in each subtype
 is of crucial importance to properly assess the function of novel proteins in
 genomes: a process called "functional annotation."
 
-
+![NMF for SS](../../assets/img/NMF_for_SS.png)
 
 Current methods to detect and annotate macro-molecular systems encoded by
 genomes first, identify proteins of interest from sequence similarity of
