@@ -1177,8 +1177,8 @@ article a:hover {
 .people-picture {
     float: left;
     position: relative;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     overflow: hidden;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
