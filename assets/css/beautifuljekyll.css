@@ -1167,9 +1167,10 @@ article a:hover {
 
 .people-index {
     padding-top: 25px;
-    padding-bottom: 50px;
+    padding-bottom: 25px;
     padding-right: 50px;
     float: left;
+    width: 180px;
 }
 
 
