@@ -1180,9 +1180,6 @@ article a:hover {
     width: 150px;
     height: 150px;
     overflow: hidden;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    border-radius: 50%;
     z-index: 0;
 }
 
