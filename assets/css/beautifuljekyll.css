@@ -1239,6 +1239,7 @@ article a:hover {
     font-weight: bold;
     font-size: 80%;
     display: block;
+    width: 120px;
     text-align: center;
 
 }
