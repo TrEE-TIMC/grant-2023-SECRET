@@ -1180,6 +1180,7 @@ article a:hover {
     width: 150px;
     height: 150px;
     overflow: hidden;
+    text-align: center;
     z-index: 0;
 }
 
@@ -1239,7 +1240,7 @@ article a:hover {
     font-weight: bold;
     font-size: 80%;
     display: block;
-    width: 120px;
+    width: 150px;
     text-align: center;
 
 }
